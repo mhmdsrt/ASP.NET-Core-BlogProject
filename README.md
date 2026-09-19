@@ -54,8 +54,6 @@
 ![Ekran Görüntüsü (547)](https://github.com/user-attachments/assets/6e978437-4210-4d99-a4a1-ac92f436053a)
 ## Yazar / Yeni Blog Ekleme
 ![Ekran Görüntüsü (548)](https://github.com/user-attachments/assets/e986f071-682d-4120-b0ef-228aee0afbb1)
-## Yazar / Gelen Mesajlar
-![Ekran Görüntüsü (550)](https://github.com/user-attachments/assets/0f519924-af4d-4c06-994a-90fab00ac10b)
 ## Yazar / Gelen Mesajın Ayrıntıları
 ![Ekran Görüntüsü (551)](https://github.com/user-attachments/assets/91dd0949-fbfb-460c-994c-7bd9dbcb513f)
 ## Yazar / Özel Mesaj Oluşturma
