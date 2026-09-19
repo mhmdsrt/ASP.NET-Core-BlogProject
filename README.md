@@ -58,8 +58,6 @@
 ![Ekran Görüntüsü (550)](https://github.com/user-attachments/assets/0f519924-af4d-4c06-994a-90fab00ac10b)
 ## Yazar / Gelen Mesajın Ayrıntıları
 ![Ekran Görüntüsü (551)](https://github.com/user-attachments/assets/91dd0949-fbfb-460c-994c-7bd9dbcb513f)
-## Yazar / Gelene Mesajı Cevaplama
-![Ekran Görüntüsü (552)](https://github.com/user-attachments/assets/ba2eca88-a8a3-4a2a-a7db-f1faffa68a67)
 ## Yazar / Özel Mesaj Oluşturma
 ![Ekran Görüntüsü (553)](https://github.com/user-attachments/assets/7f7cca16-c6f3-406a-bafe-f8490ba01989)
 ## Yazar / Kişisel Bilgileri Düzenleme
